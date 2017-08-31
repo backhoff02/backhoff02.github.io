@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <link rel="stylesheet" type="text/css" href="_ym
+  <link rel="stylesheet" type="text/css" href="_config.yml">
    <h1> PC OX </h1>
  </head>
  

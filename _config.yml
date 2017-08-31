@@ -1,5 +1,2 @@
 theme: jekyll-theme-cayman
 
-.paragraph {
- font-family: 'arial', sans-serif;
-}

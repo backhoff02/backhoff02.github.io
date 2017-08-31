@@ -12,6 +12,3 @@
  </p>
 
  <h3> About us </h3>
- 
- background-image: 
-   url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/background.jpg');
